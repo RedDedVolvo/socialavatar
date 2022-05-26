@@ -1,2 +1,2 @@
 # socialavatar
-Avatar that shows users social media links on hover
+Extended social avatar which includes the different social media or links a user would want. 
